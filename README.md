@@ -119,3 +119,12 @@ data_structures_studio_v2/
 ├── README.md
 ├── main.py
 └── run.bat
+
+---
+
+## Контакты
+
+- **Telegram:** [@Tpomoschnik](https://t.me/Tpomoschnik)
+- **Телефон:** +7-925-104-10-73
+- **Email:** mamambell@gmail.com
+- **GitHub:** [N-888](https://github.com/N-888)
